@@ -11,7 +11,7 @@ SUN solanna = new SUN();
 
 solanna.Heat= "3333";
 solanna.radius="ajdflkasdj";
-solanna.temp = 1223333;
+solanna.temp = "1223333";
 
 
     }
